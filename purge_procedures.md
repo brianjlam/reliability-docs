@@ -1,5 +1,5 @@
 
-![](logoCCCSD.jpg) 
+![](logoCCCSD.png) 
 
 # Purge Procedures for Fuel Gas Piping
 
